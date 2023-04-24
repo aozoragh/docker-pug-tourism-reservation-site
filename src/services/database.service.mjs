@@ -29,7 +29,7 @@ export default class DatabaseService {
       return data;
     } catch (err) {
       // Handle error...
-      console.error(err);
+      console.error(11111,err);
       return undefined;
     }
   }
